@@ -1,0 +1,31 @@
+[33mcommit 009ed327ad82739249c86368f55f19a4c9695070[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Rayavarapu Avinash <rayavarapu.avinash@globallogic.com>
+Date:   Tue Jul 9 09:02:31 2024 +0530
+
+    deleted w file
+
+[33mcommit 8ad0038bf839e573bc36b8ee6ff7a43bd20b770b[m
+Author: Rayavarapu Avinash <rayavarapu.avinash@globallogic.com>
+Date:   Tue Jul 9 08:35:47 2024 +0530
+
+    w added
+
+[33mcommit 7122ad47acf74c5b34ca2ade091d1c4b7c3b904a[m
+Author: Rayavarapu Avinash <rayavarapu.avinash@globallogic.com>
+Date:   Mon Jul 8 23:01:42 2024 +0530
+
+    Revert "All is added"
+    
+    This reverts commit aaa375f4aa64d3d800ba3b80992843bcd657e7d4.
+
+[33mcommit aaa375f4aa64d3d800ba3b80992843bcd657e7d4[m
+Author: Rayavarapu Avinash <rayavarapu.avinash@globallogic.com>
+Date:   Mon Jul 8 22:29:20 2024 +0530
+
+    All is added
+
+[33mcommit db700ba1261d0ee2572022b3ceab23a93ccca1b7[m
+Author: Rayavarapu Avinash <103448334+Avinash-Rayavarapu@users.noreply.github.com>
+Date:   Mon Jul 8 22:25:27 2024 +0530
+
+    Initial commit
